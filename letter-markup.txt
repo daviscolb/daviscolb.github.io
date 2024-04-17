@@ -1,4 +1,44 @@
-Colby Davis
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="veiwport" content="width=divice-width, initial-scale=1.0">
+        <meta name="author" content="Colby Davis"
+        <title>Awesome Science Application Correspondance</title>
+        <style>
+            html {
+                 font-size:16px;
+            }
+            body  {
+                 max-width: 800px;
+                 margin: 0 auto;
+            }
+            .sender-column {
+                text-align: right;
+            }
+            h1 {
+                font-size: 1.5em;
+            }
+            h2 {
+                font-size: 1.3em;
+            }
+            p,ul,ol,dl,address {
+                font-size: 1.1em;
+            }
+            p, li, dd, dt, address {
+                line-height: 1.5;             
+            }
+            address{  
+                font-style:normal;
+                margin:1rem 0;
+            }
+        </style>
+    </head>
+    <body>
+    </body>
+</html>
+@@ -0,0 +1,63 @@
+Dr. Eleanor Gaye
 Awesome Science faculty
 University of Awesome
 Bobtown, CA 99999,
